@@ -1,6 +1,6 @@
 <!-- First MD file ever -->
 
-# Pete-CheggSkills-Portfolio-Practice
+ # 💾 Pete-CheggSkills-Portfolio-Practice
 ## This is my first assignment created in Github
 
 🏔️ Currently Living in Denver CO.
